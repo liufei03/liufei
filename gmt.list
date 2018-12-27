@@ -20,7 +20,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://dgt.91biz.com.cn:9770/appCenter/setupImage/5BF6D637000000015566B727D7EE8942/icon.png</string>
+            <string>https://raw.githubusercontent.com/liufei03/liufei/master/launch.png</string>
           </dict>
         </array>
         <key>metadata</key>
